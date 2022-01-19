@@ -1,0 +1,25 @@
+{
+    "orders": [
+        {
+            "item": "printer",
+            "quantity": "20",
+            "price": "7000",
+            "buyer": "Петров В.В.",
+            "date": "20.12.2021"
+        },
+        {
+            "item": "fax",
+            "quantity": "200",
+            "price": "500",
+            "buyer": "Smirnov A.A.",
+            "date": "14.12.2021"
+        },
+        {
+            "item": "phone",
+            "quantity": "50",
+            "price": "100",
+            "buyer": "Иванов В.В.",
+            "date": "18.12.2021"
+        }
+    ]
+}
